@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Parkir Online</string>
+    <string name="daftar">
+
+DAFTAR
+</string>
+
+    <string name="daftar_untu">
+
+Daftar Untuk Memulai
+</string>
+
+    <string name="scan_qr_cod">
+Scan QR Code
+</string>
+
+    <string name="riwayat">
+Riwayat
+</string>
+    <string name="parkir">
+Parkir
+</string>
+
+
+
+</resources>
